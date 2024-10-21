@@ -1,7 +1,7 @@
 # About me👋
 
 
-![Screenshot 2024-10-21 011100](https://github.com/user-attachments/assets/59c8faaa-deae-4d69-b73d-2f6ccaf870e6)
+![Martin v  Nguyen](https://github.com/user-attachments/assets/7a318abf-fa23-4320-8a19-22ca8f0ce5f3)
 
 ## Table of Contents
 - [How to Create Your Profile?](#how-to-create-your-profile)

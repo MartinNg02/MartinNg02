@@ -12,3 +12,10 @@ With experience in various programming languages including Python, SQL, and Java
 - Data visualization
 - Machine learning
 - Predictive modeling
+
+### 📚 Projects
+
+### 🛠️ Tools
+
+### 👋🏻 Connect with Me
+- [Linkedin](https://www.linkedin.com/in/martinng1609/)

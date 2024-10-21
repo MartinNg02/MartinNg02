@@ -1,5 +1,7 @@
 # About me👋
 
+![image](https://github.com/user-attachments/assets/f5fb58f9-b48f-46ae-bd81-e96df935d5bd)
+
 <!--
 **MartinNg02/MartinNg02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

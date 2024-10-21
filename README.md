@@ -10,12 +10,12 @@ With experience in various programming languages including Python, SQL, and Java
 Here are some of my work in my portfolio, over the years at my university: [Project tab: Work in progress](Work in progress).
 
 ### 💻 Tools
-- Skills: Microsoft Office (Excel, Word, PowerPoint)
-- Language: Python, Javascript, HTML, CSS,
-- Database: SQL, MongoDB, Cassandra, MySQL, NoSQL.
-- Big Tools: Hadoop, Spark, R Language, KNIME, Redis
- - Data Analyse & visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly, openCV
-- Machine Learning: Scikit-learn, TensorFlow, Keras, PyTorch.
+- Skills🧑‍💼 : Microsoft Office (Excel, Word, PowerPoint), effective communication skills, customer service management,
+- Language 🗣️: Python, Javascript, HTML, CSS,
+- Database 📊: SQL, MongoDB, Cassandra, MySQL, NoSQL.
+- Big Tools 🖥️: Hadoop, Spark, R Language, KNIME, Redis
+- Data analysis & visualization 📈: Pandas, NumPy, Matplotlib, Seaborn, Plotly, openCV
+- Machine Learning ⚙️: Scikit-learn, TensorFlow, Keras, PyTorch.
 
 ### 👋🏻 Connect with Me
 - [Linkedin](https://www.linkedin.com/in/martinng1609/)

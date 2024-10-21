@@ -1,6 +1,7 @@
 # About me👋
 
-![image](https://github.com/user-attachments/assets/f5fb58f9-b48f-46ae-bd81-e96df935d5bd)
+
+![Screenshot 2024-10-21 011100](https://github.com/user-attachments/assets/59c8faaa-deae-4d69-b73d-2f6ccaf870e6)
 
 ## Table of Contents
 - [How to Create Your Profile?](#how-to-create-your-profile)

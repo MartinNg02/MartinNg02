@@ -7,7 +7,7 @@ Hello everyone. My name is Martin, and I am a very passionate Applied Data Scien
 With experience in various programming languages including Python, SQL, and JavaScript, with focus on transforming data into actionable insights. I am actively seeking opportunities in data science and IT in general, aiming to contribute through my newly acquired expertise in advanced data analytics.
 
 ### 📚 Projects
-Here are some of my work in my portfolio, over the years at my university: [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md).
+Here are some of my work in my portfolio, over the years at my university: [Project tab: Work in progress](Work in progress).
 ### 🛠️ Tools
 - Skills: Microsoft Office (Excel, Word, PowerPoint)
 - Language: Python, Javascript, HTML, CSS,
